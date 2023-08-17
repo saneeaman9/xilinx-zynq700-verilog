@@ -1,1 +1,1 @@
-# xilinx-zynq700-verilog
+Mini project on xilinx zynq 7000 series FPGA.
